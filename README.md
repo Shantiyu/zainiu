@@ -4,13 +4,16 @@
 > element- and charge-conservation system with exact rational Gaussian elimination.
 
 > **生成式人工智能使用声明**
+> 
 > 本项目的所有代码于 2023 年编写，任何代码不由生成式人工智能生成。
-> 本项目于 2026 年 10 月上传至 Github，并由 AI 补充本文档（`README.md`）。
+> 
+> 项目于 2026 年 10 月上传至 Github，并由 AI 补充本文档（`README.md`）。
 
 面向中学化学的 Windows 桌面小工具：输入一个化学方程式，程序求出最小正整数配平系数；
 顺带集成相对分子质量、质量分数、摩尔计算、上下标转换等常用功能。
 
 > 本软件的名称来自初中化学老师张照伟的口头禅：
+> 
 > *杀鸡焉用宰牛刀啊 ~*
 
 | 项目 | 内容 |
