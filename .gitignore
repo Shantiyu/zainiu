@@ -1,0 +1,28 @@
+# 生成输出
+[Bb]in/
+[Oo]bj/
+publish/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Visual Studio 用户状态
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# ClickOnce 临时签名密钥（含私钥，不入库）
+*.pfx
+*.snk
+
+# 系统与编辑器杂物
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
+*.tmp

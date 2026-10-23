@@ -1,0 +1,8 @@
+下标,₀,₁,₂,₃,₄,₅,₆,₇,₈,₉
+上标,⁰,¹,²,³,⁴,⁵,⁶,⁷,⁸,⁹,⁺,⁻
+常用元素,H/氢,C,N,O,Na,Mg,Al,P,S,Cl,K,Ca,Mn,Fe,Cu,Zn,Ag,Ba
+标注符号,↓,↑,=,+,·,(,),[,],△,点燃,高温,催化剂
+常用根及原子团,CO₃,SO₄,OH,NO₃,MnO₄,NH₄
+常用离子及根离子,CO₃²⁻,SO₄²⁻,OH⁻,NO₃⁻,MnO₄⁻,MnO₄²⁻,Cl⁻,NH₄⁺,H⁺,Na⁺,Mg²⁺,Al³⁺,K⁺,Ca²⁺,Mn²⁺,Fe²⁺,Fe³⁺,Cu²⁺,Zn²⁺,Ag⁺,Ba²⁺
+常用基团,CH₃,CH₂,COOH,OH
+所有元素,H,He,Li,Be,B,C,N,O,F,Ne,Na,Mg,Al,Si,P,S,Cl,Ar,K,Ca,Sc,Ti,V,Cr,Mn,Fe,Co,Ni,Cu,Zn,Ga,Ge,As,Se,Br,Kr,Rb,Sr,Y,Zr,Nb,Mo,Tc,Ru,Rh,Pd,Ag,Cd,In,Sn,Sb,Te,I,Xe,Cs,Ba,La,Ce,Pr,Nd,Pm,Sm,Eu,Gd,Tb,Dy,Ho,Er,Tm,Yb,Lu,Hf,Ta,W,Re,Os,Ir,Pt,Au,Hg,Tl,Pb,Bi,Po,At,Rn,Fr,Ra,Ac,Th,Pa,U,Np,Pu,Am,Cm,Bk,Cf,Es,Fm,Md,No,Lr,Rf,Db,Sg,Bh,Hs,Mt,Ds,Rg,Cn,Nh,Fl,Mc,Lv,Ts,Og

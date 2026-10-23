@@ -1,0 +1,10 @@
+# 统一交由 git 处理文本换行：仓库内保存 LF，Windows 检出为 CRLF
+* text=auto
+
+# 二进制资源，禁止换行转换
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pfx binary
